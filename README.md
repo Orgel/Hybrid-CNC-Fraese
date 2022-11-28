@@ -1,10 +1,10 @@
-# Hybrid-CNC-Router
+# Hybrid CNC Fräse
 
-Arduino controlled hybrid CNC router, laser cutter and 3D printer
+Arduino gesteuerter Hybrid-CNC-Fräser, Laserschneider und 3D-Drucker
 
-# Features
+# Merkmale
 
-* 3 axes
-* CNC milling
-* laser cutting
-* 3D print
+* 3 Axen
+* CNC Fräsen
+* Laser schneiden
+* 3D Druck
